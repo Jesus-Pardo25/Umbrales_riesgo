@@ -601,7 +601,7 @@ $node_0 = 0;
 
     <!-- Page level custom scripts -->
     <!-- GOOGLE MAPS API -->
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYWglNL6JQImeRoUiJB4E9GGi7dK3JCZc&callback=initMap"> </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=Yourapikey=initMap"> </script>
     <!-- CODIGO CHINGON -->
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
